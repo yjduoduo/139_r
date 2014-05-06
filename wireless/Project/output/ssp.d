@@ -1,0 +1,13 @@
+.\output\ssp.o: ..\drivers\ssp\ssp.c
+.\output\ssp.o: ../include/drivers/ssp.h
+.\output\ssp.o: ../include/includeall.h
+.\output\ssp.o: f:\Keil\ARM\RV31\Inc\stdio.h
+.\output\ssp.o: f:\Keil\ARM\RV31\Inc\stdlib.h
+.\output\ssp.o: f:\Keil\ARM\RV31\Inc\stdarg.h
+.\output\ssp.o: ../include/type.h
+.\output\ssp.o: ../include/system/LPC17xx.h
+.\output\ssp.o: f:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\output\ssp.o: f:\Keil\ARM\RV31\Inc\stdint.h
+.\output\ssp.o: f:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\ssp.o: f:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\ssp.o: ../include/system/system_LPC17xx.h

@@ -1,0 +1,38 @@
+*** Creating Trace Output File '.\output\139_wireless_mod_v1_0.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\output\startup_lpc17xx.o"'
+### List of Objects: adding '".\output\main.o"'
+### List of Objects: adding '".\output\system_lpc17xx.o"'
+### List of Objects: adding '".\output\timedef.o"'
+### List of Objects: adding '".\output\lcd_printf.o"'
+### List of Objects: adding '".\output\uart_all.o"'
+### List of Objects: adding '".\output\uart0.o"'
+### List of Objects: adding '".\output\uart1.o"'
+### List of Objects: adding '".\output\delay.o"'
+### List of Objects: adding '".\output\timer_all.o"'
+### List of Objects: adding '".\output\i2c.o"'
+### List of Objects: adding '".\output\gpio.o"'
+### List of Objects: adding '".\output\ssp.o"'
+### List of Objects: adding '".\output\pcf8563.o"'
+### List of Objects: adding '".\output\led.o"'
+### List of Objects: adding '".\output\pwm.o"'
+### List of Objects: adding '".\output\relay.o"'
+### List of Objects: adding '".\output\lcd12864.o"'
+### List of Objects: adding '".\output\extint.o"'
+### List of Objects: adding '".\output\init.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\output\startup_lpc17xx.o" ".\output\main.o" ".\output\system_lpc17xx.o" ".\output\timedef.o" ".\output\lcd_printf.o" ".\output\uart_all.o" ".\output\uart0.o" ".\output\uart1.o" ".\output\delay.o" ".\output\timer_all.o" ".\output\i2c.o" ".\output\gpio.o" ".\output\ssp.o" ".\output\pcf8563.o" ".\output\led.o" ".\output\pwm.o" ".\output\relay.o" ".\output\lcd12864.o" ".\output\extint.o" ".\output\init.o" --strict --scatter ".\output\139_wireless_mod_v1_0.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\139_wireless_mod_v1_0.map" -o ".\output\139_wireless_mod_v1_0.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\output\139_wireless_mod_v1_0.axf'
+### ADS-LD Command File: '.\output\139_wireless_mod_v1_0.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\output\139_wireless_mod_v1_0.lnp', Handle=0x00000500
+### Writing '.lnp' file
+### ADS-LD Command file '.\output\139_wireless_mod_v1_0.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

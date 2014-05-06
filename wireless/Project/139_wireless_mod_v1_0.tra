@@ -1,0 +1,38 @@
+*** Creating Trace Output File '139_wireless_mod_v1_0.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup_lpc17xx.o"'
+### List of Objects: adding '"main.o"'
+### List of Objects: adding '"system_lpc17xx.o"'
+### List of Objects: adding '"timedef.o"'
+### List of Objects: adding '"lcd_printf.o"'
+### List of Objects: adding '"uart_all.o"'
+### List of Objects: adding '"uart0.o"'
+### List of Objects: adding '"uart1.o"'
+### List of Objects: adding '"delay.o"'
+### List of Objects: adding '"timer_all.o"'
+### List of Objects: adding '"i2c.o"'
+### List of Objects: adding '"gpio.o"'
+### List of Objects: adding '"ssp.o"'
+### List of Objects: adding '"pcf8563.o"'
+### List of Objects: adding '"led.o"'
+### List of Objects: adding '"pwm.o"'
+### List of Objects: adding '"relay.o"'
+### List of Objects: adding '"lcd12864.o"'
+### List of Objects: adding '"extint.o"'
+### List of Objects: adding '"init.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 "startup_lpc17xx.o" "main.o" "system_lpc17xx.o" "timedef.o" "lcd_printf.o" "uart_all.o" "uart0.o" "uart1.o" "delay.o" "timer_all.o" "i2c.o" "gpio.o" "ssp.o" "pcf8563.o" "led.o" "pwm.o" "relay.o" "lcd12864.o" "extint.o" "init.o" --strict --scatter "139_wireless_mod_v1_0.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\139_wireless_mod_v1_0.map" -o "139_wireless_mod_v1_0.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '139_wireless_mod_v1_0.axf'
+### ADS-LD Command File: '139_wireless_mod_v1_0.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '139_wireless_mod_v1_0.lnp', Handle=0x00000300
+### Writing '.lnp' file
+### ADS-LD Command file '139_wireless_mod_v1_0.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

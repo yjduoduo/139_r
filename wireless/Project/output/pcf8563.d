@@ -1,0 +1,14 @@
+.\output\pcf8563.o: ..\drivers\rtc\pcf8563.c
+.\output\pcf8563.o: ../include/drivers/pcf8563.h
+.\output\pcf8563.o: ../include/includeall.h
+.\output\pcf8563.o: f:\Keil\ARM\RV31\Inc\stdio.h
+.\output\pcf8563.o: f:\Keil\ARM\RV31\Inc\stdlib.h
+.\output\pcf8563.o: f:\Keil\ARM\RV31\Inc\stdarg.h
+.\output\pcf8563.o: ../include/type.h
+.\output\pcf8563.o: ../include/system/LPC17xx.h
+.\output\pcf8563.o: f:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\output\pcf8563.o: f:\Keil\ARM\RV31\Inc\stdint.h
+.\output\pcf8563.o: f:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\pcf8563.o: f:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\pcf8563.o: ../include/system/system_LPC17xx.h
+.\output\pcf8563.o: ../include/drivers/i2c.h

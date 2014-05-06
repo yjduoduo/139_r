@@ -1,0 +1,13 @@
+.\output\gpio.o: ..\drivers\gpio\gpio.c
+.\output\gpio.o: ../include/drivers/gpio.h
+.\output\gpio.o: ../include/includeall.h
+.\output\gpio.o: f:\Keil\ARM\RV31\Inc\stdio.h
+.\output\gpio.o: f:\Keil\ARM\RV31\Inc\stdlib.h
+.\output\gpio.o: f:\Keil\ARM\RV31\Inc\stdarg.h
+.\output\gpio.o: ../include/type.h
+.\output\gpio.o: ../include/system/LPC17xx.h
+.\output\gpio.o: f:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\output\gpio.o: f:\Keil\ARM\RV31\Inc\stdint.h
+.\output\gpio.o: f:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\gpio.o: f:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\gpio.o: ../include/system/system_LPC17xx.h

@@ -1,0 +1,13 @@
+.\output\timedef.o: ..\common\timedef\timedef.c
+.\output\timedef.o: ../include/common/timedef.h
+.\output\timedef.o: ../include/includeall.h
+.\output\timedef.o: f:\Keil\ARM\RV31\Inc\stdio.h
+.\output\timedef.o: f:\Keil\ARM\RV31\Inc\stdlib.h
+.\output\timedef.o: f:\Keil\ARM\RV31\Inc\stdarg.h
+.\output\timedef.o: ../include/type.h
+.\output\timedef.o: ../include/system/LPC17xx.h
+.\output\timedef.o: f:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\output\timedef.o: f:\Keil\ARM\RV31\Inc\stdint.h
+.\output\timedef.o: f:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\timedef.o: f:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\timedef.o: ../include/system/system_LPC17xx.h

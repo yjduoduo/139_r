@@ -1,0 +1,40 @@
+Build target '139_wireless_mod'
+compiling m25p80.c...
+..\drivers\flash\m25p80.c(26): error:  #20: identifier "SSP_BUFSIZE" is undefined
+..\drivers\flash\m25p80.c(30): warning:  #223-D: function "SSPSend" declared implicitly
+..\drivers\flash\m25p80.c(34): warning:  #223-D: function "Delay_10ms" declared implicitly
+..\drivers\flash\m25p80.c(51): error:  #20: identifier "SSP_BUFSIZE" is undefined
+..\drivers\flash\m25p80.c(54): warning:  #223-D: function "SSPSend" declared implicitly
+..\drivers\flash\m25p80.c(58): warning:  #223-D: function "Delay_10ms" declared implicitly
+..\drivers\flash\m25p80.c(75): error:  #20: identifier "SSP_BUFSIZE" is undefined
+..\drivers\flash\m25p80.c(81): warning:  #223-D: function "SSPSend" declared implicitly
+..\drivers\flash\m25p80.c(130): warning:  #223-D: function "Delay_10ms" declared implicitly
+Target not created
+Build target '139_wireless_mod'
+compiling m25p80.c...
+..\drivers\flash\m25p80.c(26): error:  #20: identifier "SSP_BUFSIZE" is undefined
+..\drivers\flash\m25p80.c(30): warning:  #223-D: function "SSPSend" declared implicitly
+..\drivers\flash\m25p80.c(34): warning:  #223-D: function "Delay_10ms" declared implicitly
+..\drivers\flash\m25p80.c(51): error:  #20: identifier "SSP_BUFSIZE" is undefined
+..\drivers\flash\m25p80.c(54): warning:  #223-D: function "SSPSend" declared implicitly
+..\drivers\flash\m25p80.c(58): warning:  #223-D: function "Delay_10ms" declared implicitly
+..\drivers\flash\m25p80.c(75): error:  #20: identifier "SSP_BUFSIZE" is undefined
+..\drivers\flash\m25p80.c(81): warning:  #223-D: function "SSPSend" declared implicitly
+..\drivers\flash\m25p80.c(130): warning:  #223-D: function "Delay_10ms" declared implicitly
+Target not created
+Build target '139_wireless_mod'
+compiling m25p80.c...
+..\drivers\flash\m25p80.c(26): error:  #20: identifier "SSP_BUFSIZE" is undefined
+..\drivers\flash\m25p80.c(30): warning:  #223-D: function "SSPSend" declared implicitly
+..\drivers\flash\m25p80.c(34): warning:  #223-D: function "Delay_10ms" declared implicitly
+..\drivers\flash\m25p80.c(51): error:  #20: identifier "SSP_BUFSIZE" is undefined
+..\drivers\flash\m25p80.c(54): warning:  #223-D: function "SSPSend" declared implicitly
+..\drivers\flash\m25p80.c(58): warning:  #223-D: function "Delay_10ms" declared implicitly
+..\drivers\flash\m25p80.c(75): error:  #20: identifier "SSP_BUFSIZE" is undefined
+..\drivers\flash\m25p80.c(81): warning:  #223-D: function "SSPSend" declared implicitly
+..\drivers\flash\m25p80.c(130): warning:  #223-D: function "Delay_10ms" declared implicitly
+Target not created
+Build target '139_wireless_mod'
+linking...
+Program Size: Code=9226 RO-data=265582 RW-data=1244 ZI-data=612  
+".\output\139_wireless_mod_v1_0.axf" - 0 Error(s), 0 Warning(s).

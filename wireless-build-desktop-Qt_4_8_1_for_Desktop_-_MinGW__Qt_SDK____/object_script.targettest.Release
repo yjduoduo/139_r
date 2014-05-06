@@ -1,0 +1,17 @@
+INPUT(
+./release\uart.o
+./release\uart0.o
+./release\main.o
+./release\extern.o
+./release\uart1.o
+./release\lcd_printf.o
+./release\uart_all.o
+./release\delay.o
+./release\timer_all.o
+./release\i2c.o
+./release\extint.o
+./release\gpio.o
+./release\ssp.o
+./release\pwm.o
+./release\pcf8563.o
+);

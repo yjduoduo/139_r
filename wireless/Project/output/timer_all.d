@@ -1,0 +1,13 @@
+.\output\timer_all.o: ..\drivers\timer\timer_all.c
+.\output\timer_all.o: ../include/drivers/timer_all.h
+.\output\timer_all.o: ../include/includeall.h
+.\output\timer_all.o: f:\Keil\ARM\RV31\Inc\stdio.h
+.\output\timer_all.o: f:\Keil\ARM\RV31\Inc\stdlib.h
+.\output\timer_all.o: f:\Keil\ARM\RV31\Inc\stdarg.h
+.\output\timer_all.o: ../include/type.h
+.\output\timer_all.o: ../include/system/LPC17xx.h
+.\output\timer_all.o: f:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\output\timer_all.o: f:\Keil\ARM\RV31\Inc\stdint.h
+.\output\timer_all.o: f:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\timer_all.o: f:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\timer_all.o: ../include/system/system_LPC17xx.h

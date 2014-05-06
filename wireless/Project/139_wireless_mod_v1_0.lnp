@@ -1,0 +1,4 @@
+--cpu Cortex-M3 "startup_lpc17xx.o" "main.o" "system_lpc17xx.o" "timedef.o" "lcd_printf.o" "uart_all.o" "uart0.o" "uart1.o" "delay.o" "timer_all.o" "i2c.o" "gpio.o" "ssp.o" "pcf8563.o" "led.o" "pwm.o" "relay.o" "lcd12864.o" "extint.o" "init.o" --strict --scatter "139_wireless_mod_v1_0.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\139_wireless_mod_v1_0.map" -o "139_wireless_mod_v1_0.axf"

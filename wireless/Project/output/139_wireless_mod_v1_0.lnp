@@ -1,0 +1,4 @@
+--cpu Cortex-M3 ".\output\startup_lpc17xx.o" ".\output\main.o" ".\output\system_lpc17xx.o" ".\output\timedef.o" ".\output\lcd_printf.o" ".\output\uart_all.o" ".\output\uart0.o" ".\output\uart1.o" ".\output\delay.o" ".\output\timer_all.o" ".\output\i2c.o" ".\output\gpio.o" ".\output\ssp.o" ".\output\pcf8563.o" ".\output\led.o" ".\output\pwm.o" ".\output\relay.o" ".\output\lcd12864.o" ".\output\extint.o" ".\output\init.o" --strict --scatter ".\output\139_wireless_mod_v1_0.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\139_wireless_mod_v1_0.map" -o ".\output\139_wireless_mod_v1_0.axf"

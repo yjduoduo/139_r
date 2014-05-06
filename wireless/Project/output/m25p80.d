@@ -1,0 +1,13 @@
+.\output\m25p80.o: ..\drivers\flash\m25p80.c
+.\output\m25p80.o: ../include/drivers/m25p80.h
+.\output\m25p80.o: ../include/includeall.h
+.\output\m25p80.o: f:\Keil\ARM\RV31\Inc\stdio.h
+.\output\m25p80.o: f:\Keil\ARM\RV31\Inc\stdlib.h
+.\output\m25p80.o: f:\Keil\ARM\RV31\Inc\stdarg.h
+.\output\m25p80.o: ../include/type.h
+.\output\m25p80.o: ../include/system/LPC17xx.h
+.\output\m25p80.o: f:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\output\m25p80.o: f:\Keil\ARM\RV31\Inc\stdint.h
+.\output\m25p80.o: f:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\m25p80.o: f:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\m25p80.o: ../include/system/system_LPC17xx.h

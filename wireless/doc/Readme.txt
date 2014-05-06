@@ -1,0 +1,35 @@
+includeall.h 包含所有必要文件夹内容
+keil中添加目录可以通过vim快捷命令来执行
+==开始===
+1.添加目录结构，形如
+api
+board
+common
+cpu
+doc
+drivers
+include
+lib_arm
+Project
+src
+tools
+2.添加底层驱动，包含有
+delay
+extint
+flash
+gpio
+i2c
+input
+lcd12864
+led
+pwm
+relay
+rtc
+serial
+spi
+ssp
+timer
+3.头文件添加到根目录下的include
+4.有关系统此类cpu共同的部分包含在common/system
+====time:2014年3月5日 08:39:45==============
+1.

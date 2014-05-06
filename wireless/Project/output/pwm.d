@@ -1,0 +1,13 @@
+.\output\pwm.o: ..\drivers\pwm\pwm.c
+.\output\pwm.o: ../include/drivers/pwm.h
+.\output\pwm.o: ../include/includeall.h
+.\output\pwm.o: f:\Keil\ARM\RV31\Inc\stdio.h
+.\output\pwm.o: f:\Keil\ARM\RV31\Inc\stdlib.h
+.\output\pwm.o: f:\Keil\ARM\RV31\Inc\stdarg.h
+.\output\pwm.o: ../include/type.h
+.\output\pwm.o: ../include/system/LPC17xx.h
+.\output\pwm.o: f:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\output\pwm.o: f:\Keil\ARM\RV31\Inc\stdint.h
+.\output\pwm.o: f:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\pwm.o: f:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\pwm.o: ../include/system/system_LPC17xx.h

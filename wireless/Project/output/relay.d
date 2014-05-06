@@ -1,0 +1,13 @@
+.\output\relay.o: ..\drivers\relay\relay.c
+.\output\relay.o: ../include/drivers/relay.h
+.\output\relay.o: ../include/includeall.h
+.\output\relay.o: f:\Keil\ARM\RV31\Inc\stdio.h
+.\output\relay.o: f:\Keil\ARM\RV31\Inc\stdlib.h
+.\output\relay.o: f:\Keil\ARM\RV31\Inc\stdarg.h
+.\output\relay.o: ../include/type.h
+.\output\relay.o: ../include/system/LPC17xx.h
+.\output\relay.o: f:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\output\relay.o: f:\Keil\ARM\RV31\Inc\stdint.h
+.\output\relay.o: f:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\relay.o: f:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\relay.o: ../include/system/system_LPC17xx.h

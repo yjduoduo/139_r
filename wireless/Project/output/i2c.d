@@ -1,0 +1,13 @@
+.\output\i2c.o: ..\drivers\i2c\i2c.c
+.\output\i2c.o: ../include/drivers/i2c.h
+.\output\i2c.o: ../include/includeall.h
+.\output\i2c.o: f:\Keil\ARM\RV31\Inc\stdio.h
+.\output\i2c.o: f:\Keil\ARM\RV31\Inc\stdlib.h
+.\output\i2c.o: f:\Keil\ARM\RV31\Inc\stdarg.h
+.\output\i2c.o: ../include/type.h
+.\output\i2c.o: ../include/system/LPC17xx.h
+.\output\i2c.o: f:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\output\i2c.o: f:\Keil\ARM\RV31\Inc\stdint.h
+.\output\i2c.o: f:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\i2c.o: f:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\i2c.o: ../include/system/system_LPC17xx.h

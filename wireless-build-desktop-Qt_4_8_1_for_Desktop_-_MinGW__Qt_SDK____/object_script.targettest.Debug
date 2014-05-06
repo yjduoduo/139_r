@@ -1,0 +1,17 @@
+INPUT(
+./debug\uart.o
+./debug\uart0.o
+./debug\main.o
+./debug\extern.o
+./debug\uart1.o
+./debug\lcd_printf.o
+./debug\uart_all.o
+./debug\delay.o
+./debug\timer_all.o
+./debug\i2c.o
+./debug\extint.o
+./debug\gpio.o
+./debug\ssp.o
+./debug\pwm.o
+./debug\pcf8563.o
+);

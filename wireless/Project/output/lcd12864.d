@@ -1,0 +1,15 @@
+.\output\lcd12864.o: ..\drivers\lcd12864\lcd12864.c
+.\output\lcd12864.o: ../include/drivers/lcd12864.h
+.\output\lcd12864.o: ../include/includeall.h
+.\output\lcd12864.o: f:\Keil\ARM\RV31\Inc\stdio.h
+.\output\lcd12864.o: f:\Keil\ARM\RV31\Inc\stdlib.h
+.\output\lcd12864.o: f:\Keil\ARM\RV31\Inc\stdarg.h
+.\output\lcd12864.o: ../include/type.h
+.\output\lcd12864.o: ../include/system/LPC17xx.h
+.\output\lcd12864.o: f:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\output\lcd12864.o: f:\Keil\ARM\RV31\Inc\stdint.h
+.\output\lcd12864.o: f:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\output\lcd12864.o: f:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\output\lcd12864.o: ../include/system/system_LPC17xx.h
+.\output\lcd12864.o: ../common/font/ziku.h
+.\output\lcd12864.o: ../common/font/HZK16F.h
